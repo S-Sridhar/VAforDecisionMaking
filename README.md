@@ -1,9 +1,6 @@
 # A Survey of Visual Analytics Tools for Effective Decision-Making
 
-RQ1: Which visual analytics techniques have been demonstrated to support decisionmaking?
-Approach 1: The PI 
-
-In this project, we will conduct a thorough lay-of-the-land survey of systems literature in visual analytics and visualization in order to identify visual analytics techniques that have been demonstrated to support decisionmaking. This survey will focus in particular on visualization techniques that have been tested in operationally-relevant contexts. For each system surveyed, we will collect information on the following dimensions:
+In this project, we will conduct a thorough lay-of-the-land survey of systems literature in visual analytics and visualization in order to identify visual analytics techniques that have been demonstrated to support decisionmaking. This survey will focus in particular on visualization techniques that have been tested in operationally-relevant contexts (e.g. cybersecurity, etc.). For each system surveyed, we will collect information on the following dimensions:
 
  - D1: Visualization techniques used
  - D2: Interaction techniques used
